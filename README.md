@@ -1,12 +1,13 @@
 # devtools-23-ws
 
 Eine JavaFx Implementierung des Klassikers "Vier Gewinnt" mit einem kleinen Twist.
-Es gibt die das Spielfeld um 90° im Uhrzeigersinn zu drehen, wenn ein bestimmtes Muster erreicht wird.
-Dabei handelt es sich um ein 2x2 Quadrat, das mit den Farben eines Spielers gefüllt ist.
-Das Projekt wurde im Rahmen des Kurses "DevTools" an der Hochschule Heilbronn im Sommersemester 2023 entwickelt.
+Das Spielfeld kann um 90° im Uhrzeigersinn gedreht werden, wenn ein bestimmtes Muster erreicht wird.
+Dabei handelt es sich um ein 2x2 Quadrat, das mit den Farben **eines** Spielers gefüllt sein muss.
+Das Projekt wurde im Rahmen des Kurses "DevTools" im Studiengang Software Engineering Bachelor an der
+Hochschule Heilbronn im Sommersemester 2023 entwickelt.
 
-Unser Team hat nur den Code in den folgenden Pakten entwickelt, sowie alle sämtlichen Änderungen, die
-mit `ConnectFour` gekennzeichnet sind. Der Rest des Codes wurde von der Hochschule Heilbronn bereitgestellt.
+Unser Team hat nur den Code in den folgenden Pakten entwickelt, sowie alle sämtlichen Dateien/Änderungen, die
+mit `ConnectFour` gekennzeichnet sind. Der restliche Code wurde von der Hochschule Heilbronn bereitgestellt.
 
 - de.hhn.it.devtools.apis.connectfour
 - de.hhn.it.devtools.components.connectfour.provider
