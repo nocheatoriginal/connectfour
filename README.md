@@ -1,5 +1,7 @@
 # devtools-23-ws
 
+![connectfour](preview.png)
+
 Eine JavaFx Implementierung des Klassikers "Vier Gewinnt" mit einem kleinen Twist.
 Das Spielfeld kann um 90° im Uhrzeigersinn gedreht werden, wenn ein bestimmtes Muster erreicht wird.
 Dabei handelt es sich um ein 2x2 Quadrat, das mit den Farben **eines** Spielers gefüllt sein muss.
